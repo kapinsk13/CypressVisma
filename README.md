@@ -9,7 +9,7 @@
 [![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
 
 ```bash
-Step 1: git clone https://github.com/yopaproperty/cypress-yopa.git
+Step 1: git clone git@github.com:kapinsk13/CypressVisma.git
 
 Step 2: npm install
 
